@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I'm currently studying Computer Science at ENSAH (Morroco) .\
 ✍️ &nbsp;software engineering student .\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](cv-CHEMLAL.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://c.tenor.com/f-nICqWLnrQAAAAS/programmer-cycle.gif" align="right"/>
