@@ -26,8 +26,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/hakimchemlal"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakimchemlal&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakimchemlal&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+<a href="https://github.com/hakimchemlal"><img height="180em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakimchemlal&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakimchemlal&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
