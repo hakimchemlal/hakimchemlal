@@ -6,7 +6,7 @@
 🧑‍💻 &nbsp;I'm currently <b>Full Stack Developer at Capgemini (Morroco)</b>  
 🎓 &nbsp;I obtained my full stack engineer diploma at ENSA Hoceima  
 📄 &nbsp;I have certificates in problem solving in Java! Please have a look : [Certification](Certification.pdf).  
-🧑‍💻 &nbsp; "Thank you for taking a minute to check out my portfolio website : www.test.com  
+🧑‍💻 &nbsp; "Thank you for taking a minute to check out my portfolio website : [Portfolio](https://github.com/hakimchemlal)  
 📄 &nbsp;Please have a look at my [Résumé](cv-CHEMLAL.pdf) for more details about me. I'm open to feedback and suggestions!  
 
 
