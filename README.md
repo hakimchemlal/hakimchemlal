@@ -1,8 +1,12 @@
 ## 👋 &nbsp;Hey there! I'm Abdelhakim Chemlal 👋
 
+
+
 ### 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;I'm currently studying Computer Science at ENSAH (Morroco) .\
-✍️ &nbsp;software engineering student .\
+🧑‍💻👩‍💻 &nbsp;I'm currently <b>Full Stack Developer at Capgemini (Morroco)</b> .\
+🎓 &nbsp;I obtained my full stack engineer diploma at ENSA Hoceima .\
+📄 &nbsp;I have certificates in problem solving in Java! Please have a look : (certification.pdf).
+🧑‍💻 &nbsp; "Thank you for taking a minute to check out my portfolio website : 
 📄 &nbsp;Please have a look at my [Résumé](cv-CHEMLAL.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
@@ -25,7 +29,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
+<a href="https://github.com/hakimchemlal"><img height="180em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakimchemlal&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakimchemlal&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
+<p align="right">
 <a href="https://github.com/hakimchemlal"><img height="180em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakimchemlal&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" width="1000em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakimchemlal&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
@@ -34,7 +43,7 @@
 ### 🚶 &nbsp;Visitor Count Since 10/10/2021
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=godwinKvg.godwinKvg&left_color=green&right_color=red)
-  
+  ![](https://komarev.com/ghpvc/?username=hakimchemlal)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
