@@ -3,11 +3,11 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-🧑‍💻 &nbsp;I'm currently <b>Full Stack Developer at Capgemini (Morroco)</b> .&nbsp;
-🎓 &nbsp;I obtained my full stack engineer diploma at ENSA Hoceima .&nbsp;
-📄 &nbsp;I have certificates in problem solving in Java! Please have a look : [Certification](Certification.pdf).&nbsp;
-🧑‍💻 &nbsp; "Thank you for taking a minute to check out my portfolio website : &nbsp;
-📄 &nbsp;Please have a look at my [Résumé](cv-CHEMLAL.pdf) for more details about me. I'm open to feedback and suggestions!
+🧑‍💻 &nbsp;I'm currently <b>Full Stack Developer at Capgemini (Morroco)</b>  
+🎓 &nbsp;I obtained my full stack engineer diploma at ENSA Hoceima  
+📄 &nbsp;I have certificates in problem solving in Java! Please have a look : [Certification](Certification.pdf).  
+🧑‍💻 &nbsp; "Thank you for taking a minute to check out my portfolio website : www.test.com  
+📄 &nbsp;Please have a look at my [Résumé](cv-CHEMLAL.pdf) for more details about me. I'm open to feedback and suggestions!  
 
 
 <img alt="Night Coding" src="https://c.tenor.com/f-nICqWLnrQAAAAS/programmer-cycle.gif" align="right"/>
