@@ -7,7 +7,7 @@
 🎓 &nbsp;I obtained my full stack engineer diploma at ENSA Hoceima  
 📄 &nbsp;I have certificates in problem solving in Java! Please have a look : [Certification](Certification.pdf).  
 🧑‍💻 &nbsp; "Thank you for taking a minute to check out my portfolio website : [Portfolio](https://main--verdant-cassata-48de53.netlify.app/)  
-📄 &nbsp;Please have a look at my [Résumé](cv-CHEMLAL.pdf) for more details about me. I'm open to feedback and suggestions!  
+📄 &nbsp;Please have a look at my [Résumé](Cv_Chemlal.pdf) for more details about me. I'm open to feedback and suggestions!  
 
 
 <img alt="Night Coding" src="https://c.tenor.com/f-nICqWLnrQAAAAS/programmer-cycle.gif" align="right"/>
