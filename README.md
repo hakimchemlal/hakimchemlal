@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🧑‍💻 &nbsp;I'm currently <b>Full Stack Developer at AWS (Morroco)</b>  
 🎓 &nbsp;I obtained my full stack engineer diploma at ENSA Hoceima  
-📄 &nbsp;I have certificates in problem solving in Java! Please have a look : [CodinGame](Certification.pdf)  -  [hackerRank](Java_hackerRank_Certification.pdf)   -  [OCP11](ocp17.pdf)   -  [OCP17](ocp17.pdf)   
+📄 &nbsp;I have certificates in problem solving in Java! Please have a look : [CodinGame](Certification.pdf)  -  [OCP11](ocp17.pdf)   -  [OCP17](ocp17.pdf)   
 🧑‍💻 &nbsp; "Thank you for taking a minute to check out my portfolio website : [Portfolio](https://main--verdant-cassata-48de53.netlify.app/)  
 📄 &nbsp;Please have a look at my [Résumé](CV_CHEMLAL_FR_VERSION_2.pdf) for more details about me. I'm open to feedback and suggestions!  
 
